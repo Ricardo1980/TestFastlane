@@ -5,4 +5,4 @@
 # For more information about the Appfile, see:
 #     https://docs.fastlane.tools/advanced/#appfile
 
-username 'ricardo_ruiz_lopez@yahoo.es'
+apple_id("ricardo_ruiz_lopez@yahoo.es") # Your Apple email address
