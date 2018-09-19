@@ -30,6 +30,10 @@ platform :ios do
 
     push_to_git_remote
 
+    build_ios_app(
+      export_xcargs: "-allowProvisioningUpdates"
+    )
+
     # push_to_git_remote(remote: "origin", local_branch: "HEAD", remote_branch: "master", force: true, tags: true)
 
     upload_to_testflight
