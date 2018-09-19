@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="0: default_platform" time="0.020312">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: increment_build_number" time="1.060276">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: commit_version_bump" time="0.212246">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="3: push_to_git_remote" time="3.741153">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>
